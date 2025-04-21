@@ -101,6 +101,10 @@ python timecoder.py
 * Logs are displayed in the GUI and can be reviewed for errors
 * Hugging Face authentication is included (replace token in code)
 
-### License
+---
 
-MIT License. See `LICENSE` for details.
+If you like this project, please give it a star ⭐
+
+For questions, feedback, or support, reach out to:
+
+[Artem KK](https://www.linkedin.com/in/kazkozdev/) | MIT [LICENSE](LICENSE)
