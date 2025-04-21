@@ -14,6 +14,8 @@ A tool for analyzing YouTube video transcripts, segmenting them by topic, and ge
 * GUI built with Tkinter and ttkbootstrap for user interaction
 * Displays results in Markdown format with timestamps
 * Logs processing steps and errors
+  
+![Screenshot](https://github.com/user-attachments/assets/e41ee732-2dd7-4cee-8153-7b43bcb52c2b)
 
 ### Requirements
 
