@@ -1,0 +1,27 @@
+# Core Python libraries
+python>=3.8
+regex>=2023.10.3
+
+# Natural Language Processing
+nltk>=3.8.1
+sentence-transformers>=2.2.2
+transformers>=4.35.0
+keybert>=0.7.0
+torch>=2.0.0
+
+# YouTube transcript extraction
+youtube-transcript-api>=0.6.1
+
+# HTTP requests
+requests>=2.31.0
+
+# GUI dependencies
+tkinter>=8.6  # Included with Python standard library
+ttkbootstrap>=1.10.1
+markdown>=3.5.1
+tkinterweb>=3.17.0
+
+# Logging and threading (included with Python standard library)
+logging
+threading
+queue
