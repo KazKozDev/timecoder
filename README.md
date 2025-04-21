@@ -2,7 +2,8 @@
 <div align="center">
   <img src="https://github.com/user-attachments/assets/056fde13-5c55-41c8-8903-c4628b4ee1a4" alt="timecode_logo">
 </div>
-## Timecoder
+
+Timecoder
 
 A tool for analyzing YouTube video transcripts, segmenting them by topic, and generating timestamped summaries using AI.
 
