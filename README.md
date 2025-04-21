@@ -1,3 +1,6 @@
+
+![timecode_logo](https://github.com/user-attachments/assets/056fde13-5c55-41c8-8903-c4628b4ee1a4)
+
 ## Timecoder
 
 A tool for analyzing YouTube video transcripts, segmenting them by topic, and generating timestamped summaries using AI.
@@ -94,6 +97,6 @@ python timecoder.py
 * Logs are displayed in the GUI and can be reviewed for errors
 * Hugging Face authentication is included (replace token in code)
 
-## License
+### License
 
 MIT License. See `LICENSE` for details.
